@@ -9,6 +9,7 @@ k8s.gcr.io/pause-amd64:3.1=registry.cn-hangzhou.aliyuncs.com/google_containers/p
 k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0=registry.cn-hangzhou.aliyuncs.com/google_containers/kubernetes-dashboard-amd64:v1.10.0
 k8s.gcr.io/etcd-amd64:3.1.12=registry.cn-hangzhou.aliyuncs.com/google_containers/etcd-amd64:3.1.12
 gcr.io/kubernetes-helm/tiller:v2.10.0=registry.cn-hangzhou.aliyuncs.com/google_containers/tiller:v2.10.0
+k8s.gcr.io/k8s-dns-kube-dns-amd64:1.14.5=registry.cn-hangzhou.aliyuncs.com/google_containers/k8s-dns-kube-dns-amd64:1.14.5
 gcr.io/google_containers/pause-amd64:3.0=hujian/pause-amd64:3.0
 gcr.io/google-containers/kube-addon-manager:v6.5=hujian/kube-addon-manager:v6.5
 gcr.io/google_containers/dnsmasq-metrics-amd64:1.0=hujian/dnsmasq-metrics-amd64:1.0
