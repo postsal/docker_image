@@ -24,4 +24,3 @@ gcr.io/google_containers/kube-apiserver-amd64:v1.6.0=hujian/kube-apiserver-amd64
 gcr.io/google_containers/kube-controller-manager-amd64:v1.6.0=hujian/kube-controller-manager-amd64:v1.6.0
 gcr.io/google_containers/kube-proxy-amd64:v1.6.0=hujian/kube-proxy-amd64:v1.6.0
 gcr.io/google_containers/kube-scheduler-amd64:v1.6.0=hujian/kube-scheduler-amd64:v1.6.0
-
